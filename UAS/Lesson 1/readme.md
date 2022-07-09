@@ -1,13 +1,11 @@
-# Lesson 1 : Blockchain basic
+# Lesson 1 : Blockchain
 
-## What is Blockchain?
+## Apa itu Blockcahin?
 
 ### Satoshi Nakamoto
 Satoshi Nakamoto adalah nama yang digunakan oleh orang atau orang yang diduga sebagai pseudonim  yang mengembangkan bitcoin , menulis buku putih bitcoin , dan membuat serta menerapkan implementasi referensi asli bitcoin . 
-### Pengembangan bitcoin
+### Perkembangan bitcoin
 Nakamoto menyatakan bahwa penulisan kode untuk bitcoin dimulai pada tahun 2007. [10] Pada tanggal 18 Agustus 2008, dia atau rekannya mendaftarkan nama domain bitcoin.org, [11] dan membuat situs web di alamat tersebut. Pada tanggal 31 Oktober, Nakamoto menerbitkan buku putih di milis kriptografi di metzdowd.com yang menjelaskan tentang cryptocurrency digital , berjudul "Bitcoin: A Peer-to-Peer Electronic Cash System". Nakamoto terus berkolaborasi dengan pengembang lain pada perangkat lunak bitcoin hingga pertengahan 2010, membuat semua modifikasi pada kode sumbernya sendiri. Dia kemudian memberikan kendali atas repositori kode sumber dan kunci peringatan jaringan kepada Gavin Andresen , [22] mentransfer beberapa domain terkait ke berbagai anggota terkemuka komunitas bitcoin, dan menghentikan keterlibatannya yang diakui dalam proyek tersebut. Pada tahun 2016, Financial Times mengatakan bahwa Nakamoto mungkin adalah sekelompok orang, menyebutkan Hal Finney, Nick Szabo, dan Adam Back sebagai anggota potensial. [73] Pada tahun 2020, saluran YouTube Barely Sociable mengklaim bahwa Adam Back, penemu bitcoin pendahulunya Hashcash , adalah Nakamoto. [74] Kembali kemudian membantah ini. [75]
-
-Elon Musk membantah dia adalah Nakamoto dalam tweet pada 28 November 2017, menanggapi spekulasi minggu sebelumnya di sebuah posting media.com oleh mantan karyawan magang SpaceX . Pada 2019, jurnalis Evan Ratliff mengklaim pengedar narkoba Paul Le Roux bisa menjadi Nakamoto. Pada tahun 2021 pengembang Evan Hatch mengusulkan cypherpunk Len Sassaman dari COSIC sebagai kandidat yang memungkinkan
 
 ### Bitcoin
 Perdagangan di Internet hampir sepenuhnya bergantung pada lembaga keuangan yang berfungsi sebagai pihak ketiga tepercaya untuk memproses pembayaran elektronik. Sementara sistem bekerja cukup baik untuk sebagian besar transaksi, masih menderita kelemahan yang melekat pada model berbasis kepercayaan. Transaksi yang sepenuhnya tidak dapat dibalikkan tidak benar-benar mungkin, karena lembaga keuangan tidak dapat menghindari mediasi perselisihan. Biaya mediasi meningkatkan biaya transaksi, membatasi ukuran transaksi praktis minimum dan memotong kemungkinan untuk transaksi kasual kecil, dan ada biaya yang lebih besar dalam hilangnya kemampuan untuk melakukan pembayaran yang tidak dapat dikembalikan untuk layanan yang tidak dapat dikembalikan. Dengan kemungkinan pembalikan, kebutuhan akan kepercayaan menyebar. Pedagang harus waspada terhadap pelanggan mereka, mengganggu mereka untuk mendapatkan lebih banyak informasi daripada yang mereka butuhkan. Persentase penipuan tertentu diterima sebagai hal yang tidak dapat dihindari. Biaya dan ketidakpastian pembayaran ini dapat dihindari secara langsung dengan menggunakan mata uang fisik, tetapi tidak ada mekanisme untuk melakukan pembayaran melalui saluran komunikasi tanpa pihak yang dipercaya. 
