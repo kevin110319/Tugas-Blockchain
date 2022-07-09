@@ -1,1 +1,6 @@
-TEST
+KELOMPOK PROJECT BLOCKCHAIN
+
+Kevin Erico Prasetyo (1103193116)
+
+
+Putri Mellia Zahrani (1103190143)
